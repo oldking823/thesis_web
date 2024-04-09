@@ -1,4 +1,4 @@
-# dormitoryms
+# thesis
 
 ## Project setup
 ```
